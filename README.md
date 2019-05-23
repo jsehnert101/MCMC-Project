@@ -1,0 +1,1 @@
+As stated in the description, this project was the final capstone of a course I took in Spring 2019 as an undergraduate at the University of Rochester. You can find both the RMarkdown file and PDF of my submission in addition to the assignment instructions in this repository.
